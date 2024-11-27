@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
+<script type="text/javascript">
+    const connection = new signalR.HubConnectionBuilder().withUrl("/quartzHub").build();
+
+    connection.on("RequestUrl", function (url) {
+        document.getElementById("requestUrl").innerText = url;
+    });
+    connection.on("RequestDate", function (date) {
+        document.getElementById("requestDate").innerText = date;
+    });
+    connection.on("Time", function (time) {
+        document.getElementById("time").innerText = time;
+    });
+    connection.start().catch(function (err) {
+        return console.error(err.toString());
+    });
+</script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>Url: <span id="requestUrl"></span></p>
+    <p>Request date: <span id="time"></span></p>
+    <p>Response date: <span id="requestDate"></span></p>
+</div>

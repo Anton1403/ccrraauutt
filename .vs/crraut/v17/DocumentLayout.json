@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\E\\Projects\\NewCraut\\crraut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\services\\synchronizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:services\\synchronizeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\signalr\\quartzhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:signalr\\quartzhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\quartz\\syncscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:quartz\\syncscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\quartz\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:quartz\\jobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\quartz\\syncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:quartz\\syncjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|c:\\e\\projects\\newcraut\\crraut\\services\\errornotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6E4E84-C63B-425A-B25A-EBF9CED93525}|crraut.csproj|solutionrelative:services\\errornotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T20:53:27.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuartzHub.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\SignalR\\QuartzHub.cs",
+              "RelativeDocumentMoniker": "SignalR\\QuartzHub.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\SignalR\\QuartzHub.cs",
+              "RelativeToolTip": "SignalR\\QuartzHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:49:42.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:41:56.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SynchronizeService.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Services\\SynchronizeService.cs",
+              "RelativeDocumentMoniker": "Services\\SynchronizeService.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Services\\SynchronizeService.cs",
+              "RelativeToolTip": "Services\\SynchronizeService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:20:01.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobFactory.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\JobFactory.cs",
+              "RelativeDocumentMoniker": "Quartz\\JobFactory.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\JobFactory.cs",
+              "RelativeToolTip": "Quartz\\JobFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:19:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorNotifier.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Services\\ErrorNotifier.cs",
+              "RelativeDocumentMoniker": "Services\\ErrorNotifier.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Services\\ErrorNotifier.cs",
+              "RelativeToolTip": "Services\\ErrorNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:18:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SyncJob.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\SyncJob.cs",
+              "RelativeDocumentMoniker": "Quartz\\SyncJob.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\SyncJob.cs",
+              "RelativeToolTip": "Quartz\\SyncJob.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:15:33.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyncScheduler.cs",
+              "DocumentMoniker": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\SyncScheduler.cs",
+              "RelativeDocumentMoniker": "Quartz\\SyncScheduler.cs",
+              "ToolTip": "C:\\E\\Projects\\NewCraut\\crraut\\Quartz\\SyncScheduler.cs",
+              "RelativeToolTip": "Quartz\\SyncScheduler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:15:03.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 743,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
