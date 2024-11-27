@@ -70,7 +70,7 @@ namespace crraut.Services
         }
 
         private string GenerateMessageForTelegram(TelegramMessageDto message) {
-            var result = $"<b>BINANCEAPI</b>\n" +
+            var result = $"<b>Railway.BINANCEAPI</b>\n" +
                          $"{message.Title}\n" +
                          $"{message.Date}";
             //$"<b>Mexc:</b> {(message.IsTokenNameNotFound ? "&#10068;" : (message.IsExistOnMexc ? "&#9989;" : "&#10060;"))}\n" +
