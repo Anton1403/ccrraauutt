@@ -1,6 +1,8 @@
 using crraut.Models;
 using Microsoft.AspNetCore.Mvc;
+using RestSharp;
 using System.Diagnostics;
+using System.Text.Json;
 
 namespace crraut.Controllers
 {
@@ -16,7 +18,13 @@ namespace crraut.Controllers
             return View();
         }
 
-        public IActionResult Privacy() {
+        public async Task<IActionResult> Privacy() {
+            var client = new RestClient("https://api.ipify.org?format=json");
+            var request = new RestRequest();
+            var response = await client.GetAsync<IpResponse>(request);
+
+            ViewData["IpAddress"] = response.Ip;
+
             return View();
         }
 
@@ -24,5 +32,10 @@ namespace crraut.Controllers
         public IActionResult Error() {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+    }
+
+    public class IpResponse
+    {
+        public string Ip { get; set; }
     }
 }
