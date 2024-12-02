@@ -16,7 +16,7 @@ namespace crraut.Quartz
 
             var trigger = TriggerBuilder.Create()
                 .WithIdentity("SynchronizationTrigger", "Synchronization")
-                .WithCronSchedule("0/2 * * * * ?")
+                .WithCronSchedule("0/5 * * * * ?")
                 .Build();
 
             await scheduler.ScheduleJob(job, trigger);
