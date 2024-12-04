@@ -12,7 +12,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<SynchronizeService>();
 
 // logs
-builder.Services.AddSingleton(new Bugsnag.Client("05e1795885afb0c8fbeb36dc1e409408"));
+builder.Services.AddSingleton(new Bugsnag.Client("a025f4671562992174d829ce426b3c69"));
 builder.Services.AddTransient<ErrorNotifier>();
 
 // quartz
